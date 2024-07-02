@@ -1,5 +1,8 @@
 Title = flatemates bill
-Description: An app that takes as inputs the amount of a bill for a particular period and the days each of the flatmates stayed in the house during that period. It returns how much each flatmate has to pay. Additionally, it generates a PDF format report stating the names of the flatmates, the period, and how much each of them had to pay.
+Description: An app that takes as inputs the amount of a bill for a particular period and the days each of the flatmates stayed in the house during that period. It 
+returns how much each flatmate has to pay. Additionally, it generates a PDF format report stating the names of the flatmates, the period, and how much each of them 
+had to pay.
+
 objects :
        bill:
             amount
